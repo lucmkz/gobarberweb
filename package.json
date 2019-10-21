@@ -28,7 +28,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependences": {
+  "devDependenceis": {
     "babel-eslint": "10.0.1",
     "eslint": "5.16.0",
     "eslint-config-airbnb": "17.1.1",
